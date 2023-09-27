@@ -86,7 +86,7 @@ Example command:
 In order to run this project you need:
 1. Clone this repository to your desired location by typing this command on the terminal:
  git clone [](https://github.com/r-ahmed2022/DeckofCards-Game.git)
-2. Open the folder "bookstore and run `npm install` to install all necesary scripts,
+2. Open the folder "DeckofCards-Game" and run `npm install` to install all necesary scripts,
 3. Run from your termminal, `npm start` to open the project in your browser.
 4. run npm start to open the project in browser
 
